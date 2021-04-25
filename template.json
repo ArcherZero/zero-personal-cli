@@ -1,4 +1,5 @@
 {
   "micro": "ArcherZero/micro-template",
-  "vue": "ArcherZero/vue-template-v2"
+  "vue": "ArcherZero/vue-template-v2",
+  "vue-h5": "ArcherZero/vue-template-h5"
 }
