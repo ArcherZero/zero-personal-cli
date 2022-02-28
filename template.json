@@ -1,5 +1,7 @@
 {
   "micro": "ArcherZero/micro-template",
   "vue": "ArcherZero/vue-template-v2",
-  "vue-h5": "ArcherZero/vue-template-h5"
+  "vue-h5": "ArcherZero/vue-template-h5",
+  "mini": "ArcherZero/mini-template",
+  "ky": "gitlab:http://192.168.6.51:26100/keyou/vue-template"
 }
