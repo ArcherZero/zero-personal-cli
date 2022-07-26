@@ -23,8 +23,11 @@ zero list
 ```
 
 ## 模板列表
+
 - micro qiankun微前端框架
 - vue 基于vue的PC端框架
 - vue-h5 基于vue的移动端框架
+- mini 小程序模板
+
 ## 参考
 [参考博客](https://juejin.cn/post/6844903807919325192)
